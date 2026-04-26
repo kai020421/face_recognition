@@ -107,9 +107,9 @@ From the GUI:
 
 - This project is built for educational purposes and to demonstrates the understanding of key CT (Computational Thinking) pillars — Decomposition, Pattern Recognition, Abstraction, and Algorithmic Thinking — across every stage, from image preprocessing and feature extraction to model training and GUI integration. .
 - It uses basic classifiers and feature extraction — no deep learning models involved.
+Due to oversized project, attaching a drive link as well.
+https://drive.google.com/drive/folders/1sVk72cQqq30Ziz44mL5QZysgLBsNvnnl?usp=sharing
 
 ---
 
-## If you found this useful
 
-Give a ⭐️ on [GitHub](https://github.com/duaannaz/face-recognition)!
