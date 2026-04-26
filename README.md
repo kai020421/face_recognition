@@ -99,7 +99,7 @@ From the GUI:
 
 ## Project Contributors
 
-**Duaa Naz** | **Hadia Sajid** | **Huzaifa Awais** | **Kashaf Ansari**
+**Kashaf Ansari** | **Hadia Sajid** | **Huzaifa Awais** | **Duaa Naz**
 
 ---
 
